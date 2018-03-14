@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center_vertical"
     android:orientation="vertical"
-    tools:context="com.example.verahector.sharerecipes.activities.MainActivity">
+    tools:context="com.example.verahector.sharerecipes.activities.Login_Activity">
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -34,4 +34,22 @@
             android:layout_width="250dp"
             android:layout_height="wrap_content" />
     </LinearLayout>
+    <Button
+        android:id="@+id/login_btnLogin"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Log in"/>
+    <Button
+        android:id="@+id/login_resetPassword"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reset password."/>
+    <Button
+        android:id="@+id/login_createAccount"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create password."/>
 </LinearLayout>

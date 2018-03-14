@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 import com.example.verahector.sharerecipes.R;
 
-public class Menu_activity extends AppCompatActivity {
+public class Menu_Activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
