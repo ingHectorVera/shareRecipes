@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "967373790003",
+    "firebase_url": "https://sharerecipes-957f8.firebaseio.com",
+    "project_id": "sharerecipes-957f8",
+    "storage_bucket": "sharerecipes-957f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967373790003:android:ec36e6ecbca658f9",
+        "android_client_info": {
+          "package_name": "com.example.verahector.sharerecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967373790003-qbtuo352s82g9vnojf2sd8jd2fi3cpih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.verahector.sharerecipes",
+            "certificate_hash": "650732da72c9ef8186045ad70986af2298cc3272"
+          }
+        },
+        {
+          "client_id": "967373790003-5cgc8fvs1s1607jm2ink5jcejl1qf7mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmbZ6IhXgFXF9S8r75iXQ4wVO-47f692g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967373790003-5cgc8fvs1s1607jm2ink5jcejl1qf7mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
