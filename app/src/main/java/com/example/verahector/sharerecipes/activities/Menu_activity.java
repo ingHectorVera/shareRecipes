@@ -3,6 +3,8 @@ package com.example.verahector.sharerecipes.activities;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.example.verahector.sharerecipes.R;
+
 public class Menu_activity extends AppCompatActivity {
 
     @Override
