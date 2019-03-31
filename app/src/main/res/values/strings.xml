@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">shareRecipes</string>
+    <string name="title_activity_email_password_log_in">EmailPasswordLogIn</string>
+    <string name="login_email_option">Email</string>
 </resources>
