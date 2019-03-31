@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "335358432548-m9otl6cd8abh7s8c9048m1c6pfitte1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.verahector.sharerecipes",
+            "certificate_hash": "9f01d08aa64e291a1073d3073b4c565211fc3b81"
+          }
+        },
+        {
           "client_id": "335358432548-p97bkomla3dhvjvp7h681ffk23c4bv95.apps.googleusercontent.com",
           "client_type": 3
         }
